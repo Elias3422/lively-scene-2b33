@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "lively-scene-2b33",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "69bfa8c9-1cac-4ee4-804c-166e7906863d",
+      "database_name": "lively-scene-2b33-d1"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
